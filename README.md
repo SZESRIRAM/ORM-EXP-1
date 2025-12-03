@@ -38,7 +38,9 @@ Execute Django admin using localhost and create details for 10 entries
 admin.py
 
 from django.contrib import admin
+
 from .models import Employee, EmployeeAdmin
+
 admin.site.register(Employee, EmployeeAdmin)
 
 models.py
