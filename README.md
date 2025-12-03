@@ -56,9 +56,11 @@ class EmployeeAdmin(admin.ModelAdmin):
 
 
 
-
-
 ## OUTPUT
+
+![image alt](https://github.com/SZESRIRAM/ORM-EXP-1/blob/main/EXP%201.png?raw=true)
+
+
 
 
 
